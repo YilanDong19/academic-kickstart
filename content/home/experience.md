@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Shenyang City, Liaoning Province, China"
   date_start = "2017-07"
   date_end = "2017-08"
-  description = """Participated in the project Development of Android App of Medical Image Management System Based on Java language."""
+  description = """Participated in the project Development of Android App of Medical Image Management System Based on Java language.
   Responsibilities include:
   
   * Analysing
