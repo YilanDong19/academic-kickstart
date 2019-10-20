@@ -7,6 +7,7 @@ weight = 30  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
+<i class="fab fa-python"></i>
 
 # Showcase personal skills or business features.
 # 
@@ -15,10 +16,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "fa-python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "python"
+  description = "50%"
   
 [[feature]]
   icon = "chart-line"
