@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yilan Dong
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: The postgraduate of King's College London
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: King's College Londono
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include medical image analysis, self-definition neural networks and programmable matter. 
+My first contact with artificial intelligence was in the third year of college, although we didn't have a related course, I set up an artificial intelligence study group to do related simple projects. During the next tow year, by learning online courses, we have learned and built a variety of models such as autoencoder，cnn, gcn, etc. Even though I have learned a certain amount of knowledge from the Internet, I still feel that I need a professional lecture. This is one of the reasons why I chose to come to the UK for further study. Moreover, there are only a few people in China who study the effects of mental illness on the human brain, which makes me feel a little lonely, so I hope to join the relevant organizations for further study.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neural network
+- Feature extraction
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course:Master Degree in Healthcare Technologies MSc（Artificial intelligence direction）
+    institution: King's College London
+    year: 2019-2020
+  - course:Bachelor Degree in Biomedical Engineering
+    institution: Northeastern University in China
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
