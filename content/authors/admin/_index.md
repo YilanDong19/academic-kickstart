@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course:Master Degree in Healthcare Technologies
+  - course: Master Degree in Healthcare Technologies
     institution: King's College London
     year: 2019-2020
-  - course:Bachelor Degree in Biomedical Engineering
+  - course: Bachelor Degree in Biomedical Engineering
     institution: Northeastern University in China
     year: 2015-2019
 
