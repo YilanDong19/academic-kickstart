@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   # certificate_url = "https://www.coursera.org"
   date_start = "2019-04-01"
-  date_end = "2019-06-10"
+  date_end = ""
   description = " 
   The result:
   
