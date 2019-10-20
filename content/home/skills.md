@@ -7,7 +7,7 @@ weight = 30  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
-<i class="fab fa-python"></i>
+
 
 # Showcase personal skills or business features.
 # 
