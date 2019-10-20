@@ -23,8 +23,9 @@ date_format = "Jan 2006"
   company_url = "http://www.neusoftmedical.com/"
   location = "Shenyang City"
   date_start = "2017-07-20"
-  date_end = ""
+  date_end = "2017-08-10"
   description = """
+  Participated in the project Development of Android App of Medical Image Management System Based on Java language
   Responsibilities include:
   
   * Analysing
