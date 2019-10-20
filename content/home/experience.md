@@ -23,10 +23,9 @@ date_format = "Jan 2006"
   company_url = "http://www.neusoftmedical.com/"
   location = "Shenyang City"
   date_start = "2017-07-20"
-  date_end = "2017-08-10"
+  date_end = "2017-08-13"
   description = """
   Participated in the project Development of Android App of Medical Image Management System Based on Java language
-  
   
   Responsibilities include:
   
@@ -37,12 +36,20 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Team leader"
+  company = "Neusoft"
+  company_url = "http://www.neusoftmedical.com/"
+  location = "Shenyang City"
+  date_start = "2016-07-20"
+  date_end = "2016-08-13"
+  description = """
+  Participated in the project License Plate Recognition System Based on Opencv
+  
+  Responsibilities include:
+  
+  * Extracted, processed and recognized the vehicle license plate content
+  * Designed the user interface
+  * Obtained an intern certificate
+  """
 
 +++
