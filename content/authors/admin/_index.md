@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course:Master Degree in Healthcare Technologies MSc
+  - course:Master Degree in Healthcare Technologies
     institution: King's College London
     year: 2019-2020
   - course:Bachelor Degree in Biomedical Engineering
