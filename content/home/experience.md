@@ -26,11 +26,14 @@ date_format = "Jan 2006"
   date_end = "2017-08-10"
   description = """
   Participated in the project Development of Android App of Medical Image Management System Based on Java language
+  
+  
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Extract the patient's personal information from the server
+  * Information transfer, modification and upload between different interfaces
+  * Search, long press delete and load the local image and other function
+  * Obtained an intern certificate
   """
 
 [[experience]]
