@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course:Master Degree in Healthcare Technologies MSc（Artificial intelligence direction）
+  - course:Master Degree in Healthcare Technologies MSc
     institution: King's College London
     year: 2019-2020
   - course:Bachelor Degree in Biomedical Engineering
