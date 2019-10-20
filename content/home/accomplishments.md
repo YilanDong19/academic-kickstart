@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Graduation project: A classifier for autism prediction based on the conbination of phenotypic information and the features of            brain networks"
   url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
