@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Neusoft"
   company_url = "http://www.neusoftmedical.com/"
   location = "Shenyang City"
-  date_start = "2017-07"
+  date_start = "2017-07-20"
   date_end = ""
   description = """
   Responsibilities include:
