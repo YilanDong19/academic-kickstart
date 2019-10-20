@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2017-01-01"
-  date_end = "2017-08"
+  date_end = ""
   description = """
   Responsibilities include:
   
