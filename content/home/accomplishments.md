@@ -26,9 +26,7 @@ date_format = "Jan 2006"
   # certificate_url = "https://www.coursera.org"
   date_start = "2019-04-01"
   date_end = "2019-06-10"
-  description = " The result: 
-                 I have developed a classifier that distinguishes between autistic and normal people by combining multiple feature                        vectors. By using phenotypic information to attenuate or eliminate the impact of different measurement conditions and                    demographic distributions on the data, I reduce dimensionality of correlation coefficient matrix of brain network in 871 
-                 autistic and normal people, and obtain a few important brain functional connectivity. On the basis of these important                    edges, the vector such as spectral domain features and node efficiency are merged as the input of the support vector                      machine, and the output is the classification result, achieving a 70% correct rate. The experimental process:"
+  description = " The result: I have developed a classifier that distinguishes between autistic and normal people by combining multiple feature vectors. By using phenotypic information to attenuate or eliminate the impact of different measurement conditions and            demographic distributions on the data, I reduce dimensionality of correlation coefficient matrix of brain network in 871 autistic and normal people, and obtain a few important brain functional connectivity. On the basis of these important edges, the vector such as spectral domain features and node efficiency are merged as the input of the support vector machine, and the output is the classification result, achieving a 70% correct rate. The experimental process:"
 
 [[item]]
   organization = "edX"
