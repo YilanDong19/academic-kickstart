@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Team member"
   company = "Neusoft"
-  company_url = "http://www.neusoftmedical.com/"
+  company_url = ""
   location = "Shenyang City, Liaoning Province, China"
   date_start = "2017-07"
   date_end = "2017-08"
