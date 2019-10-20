@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include medical image analysis, self-definition neural networks and programmable matter. 
-My first contact with artificial intelligence was in the third year of college, although we didn't have a related course, I set up an artificial intelligence study group to do related simple projects. During the next tow year, by learning online courses, we have learned and built a variety of models such as autoencoder，cnn, gcn, etc. Even though I have learned a certain amount of knowledge from the Internet, I still feel that I need a professional lecture. This is one of the reasons why I chose to come to the UK for further study. Moreover, there are only a few people in China who study the effects of mental illness on the human brain, which makes me feel a little lonely, so I hope to join the relevant organizations for further study.
+bio: My research interests include medical image analysis, self-definition neural networks and programmable matter. My first contact with artificial intelligence was in the third year of college, although we didn't have a related course, I set up an artificial intelligence study group to do related simple projects. During the next tow year, by learning online courses, we have learned and built a variety of models such as autoencoder，cnn, gcn, etc. Even though I have learned a certain amount of knowledge from the Internet, I still feel that I need a professional lecture. This is one of the reasons why I chose to come to the UK for further study. Moreover, there are only a few people in China who study the effects of mental illness on the human brain, which makes me feel a little lonely, so I hope to join the relevant organizations for further study.
 
 interests:
 - Artificial Intelligence
