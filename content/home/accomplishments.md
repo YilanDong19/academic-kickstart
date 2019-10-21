@@ -51,22 +51,35 @@ date_format = "Jan 2006"
   
   2. Outstanding Graduation project of Northeastern University
   """
-
 [[experience]]
-  title = "Team leader"
-  company = "Neusoft"
-  company_url = "http://www.neusoftmedical.com/"
+  title = "Construction and Analysis of Functional Brain Network Based on Network Similarity"
+  company = "Northeastern University"
+  company_url = ""
   location = "Shenyang City"
-  date_start = "2016-07-20"
-  date_end = "2016-08-13"
+  date_start = "2018-04-01"
+  date_end = "2019-03-01"
   description = """
-  Participated in the project License Plate Recognition System Based on Opencv
+  The result :
   
-  Responsibilities include:
+  """
   
-  * Extracted, processed and recognized the vehicle license plate content
-  * Designed the user interface
-  * Obtained an intern certificate
+  
+  
+  
+  
+  [[experience]]
+  title = "Application of Supervised Deep Learning in Medical Data Analysis"
+  company = "Northeastern University"
+  company_url = ""
+  location = "Shenyang City"
+  date_start = "2017-06-01"
+  date_end = "2017-08-10"
+  description = """
+  it was my first time to know about deep learning. And in order to complete the project better, I set up a study group to participate in this project. But unfortunately, everyone except me(in my group) went to enjoy the summer holiday gradually, so I had to do the whole project by myself. Because I had a internship at the same time, the project I finished didn't contain much.
+  
+  The result:
+  I built a cnn and autoencoder model and use them to learn the features of images of pulmonary nodules. They didn't work well, this may be caused by my poor knowledge about pulmonary nodule. And the structure and parameters of the model I chose may be another reason.
+  
   """
 
 +++
