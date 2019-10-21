@@ -29,14 +29,20 @@ date_format = "Jan 2006"
   
   * I have developed a classifier that distinguishes between autistic and normal people by combining multiple feature vectors. On the basis of 9 important edges between brain areas, the vector such as 2 spectral domain features, 14 node efficiency and 9 node degree are merged as the input of the support vector machine, and the output is the classification result, achieving a 70% correct rate. 
   
-  * Based on the experiment, I summarized the differences between the brain regions of autistic patients and normal people: 1. The brain areas which node efficiency and node degree are slightly higher than normal people:57, 63, 77(AAL atlas) 2. The brain areas which node efficiency and node degree are slightly lower than normal people:25, 28, 86, 90(AAL atlas)
+  * Based on the experiment, I summarized the differences between the brain regions of autistic patients and normal people: 
+  1. The brain areas which node efficiency and node degree are slightly higher than normal people:57, 63, 77(AAL atlas) 
+  2. The brain areas which node efficiency and node degree are slightly lower than normal people:25, 28, 86, 90(AAL atlas)
 
-  experimental process :
+  Experimental process :
+  1. Download 871 data from ABIDE website and calculate the correlation coefficient matrix
+  2. Use a combination of L1-scca + SLR(learn from Japanese paper) and phenotype information for correlation coefficient matrix dimensionality reduction(feature dimension reduction), choose the important edges.
+  3. Extract the spectral domain features of each correlation coefficient matrix, and select features that have a classification effect
+  4. Select appropriate node features with classification effect
+  5. SVM
   
-  * Extract the patient's personal information from the server
-  * Information transfer, modification and upload between different interfaces
-  * Search, long press delete and load the local image and other function
-  * Obtained an intern certificate
+  Award:
+  1. Outstanding Graduation project of School of Biomedical Engineering 
+  2. Outstanding Graduation project of Northeastern University
   """
 
 [[experience]]
