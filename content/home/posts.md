@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "China"
   company_url = ""
   location = ""
-  date_start = ""
+  date_start = "2018-08-08"
   date_end = ""
   description = """"""
 
