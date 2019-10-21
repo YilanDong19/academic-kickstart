@@ -17,31 +17,95 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Outstanding graduate scholarship of Northeastern University"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2019-06-20"
+  date_end = ""
+  description = """"""
+  
+ [[experience]]
+  title = "Excellent graduate of Northeastern University title"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2019-06-20"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Second Grade Scholarship for Elite Students of Northeastern University"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2018-11-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Excellent student model title"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2018-11-01"
+  date_end = ""
+  description = """"""
+
 [[experience]]
   title = "National scholarship"
   company = "China"
   company_url = ""
   location = ""
-  date_start = "2018-08-08"
+  date_start = "2017-11-01"
   date_end = ""
   description = """"""
 
+
 [[experience]]
-  title = "Team leader"
-  company = "Neusoft"
-  company_url = "http://www.neusoftmedical.com/"
-  location = "Shenyang City"
-  date_start = "2016-07-20"
-  date_end = "2016-08-13"
-  description = """
-  Participated in the project License Plate Recognition System Based on Opencv
+  title = "First Grade Scholarship for Elite Students of Northeastern University"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2017-11-01"
+  date_end = ""
+  description = """"""
   
-  Responsibilities include:
   
-  * Extracted, processed and recognized the vehicle license plate content
-  * Designed the user interface
-  * Obtained an intern certificate
-  """
+  [[experience]]
+  title = "Excellent Student Cadre title"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2017-11-01"
+  date_end = ""
+  description = """"""
+  
+  
+ [[experience]]
+  title = "Third Grade Scholarship for Elite Students of Northeastern University"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2016-11-01"
+  date_end = ""
+  description = """"""
+  
+  
+  [[experience]]
+  title = "First Grade Scholarship for Elite Students of Northeastern University"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2017-11-01"
+  date_end = ""
+  description = """"""
+  
+  
+
 
 +++
 
