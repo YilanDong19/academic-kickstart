@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Northeastern University"
   company_url = ""
   location = "Shenyang City"
-  date_start = "2019-04-1"
+  date_start = "2019-04-01"
   date_end = "2019-06-10"
   description = """
   Responsibilities include:
