@@ -33,6 +33,7 @@ date_format = "Jan 2006"
   1. The brain areas which node efficiency and node degree are slightly higher than normal people:57, 63, 77(AAL atlas) 
   2. The brain areas which node efficiency and node degree are slightly lower than normal people:25, 28, 86, 90(AAL atlas)
 
+
   Experimental process :
   
   1. Download 871 data from ABIDE website and calculate the correlation coefficient matrix
