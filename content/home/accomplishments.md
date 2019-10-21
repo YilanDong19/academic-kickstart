@@ -52,14 +52,18 @@ date_format = "Jan 2006"
   2. Outstanding Graduation project of Northeastern University
   """
 [[experience]]
-  title = "Construction and Analysis of Functional Brain Network Based on Network Similarity"
+  title = "GCN network"
   company = "Northeastern University"
   company_url = ""
   location = "Shenyang City"
   date_start = "2018-04-01"
   date_end = "2019-03-01"
   description = """
+One reason for the low classification accuracy is the great heterogeneity between different collection sites, in order to solve this problem, We set up a study group, read some papers, and found that one solution is to use GCN and phenotype information. So we studied and built a gcn model and used phenotype information to improve the classification accuracy.
+  
   The result :
+  We built a gcn model, and the chebyshev polynomial was used to process each preprocessed matrix. Then we use the same or similar phenotypic information to reduce the distance between each individuals.
+  
   
   """
   
