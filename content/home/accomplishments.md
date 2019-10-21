@@ -25,15 +25,13 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = "2019-06-10"
   description = """
-  The result:
+  The result :
   
   * I have developed a classifier that distinguishes between autistic and normal people by combining multiple feature vectors. On the basis of 9 important edges between brain areas, the vector such as 2 spectral domain features, 14 node efficiency and 9 node degree are merged as the input of the support vector machine, and the output is the classification result, achieving a 70% correct rate. 
   
-  * Based on the experiment, I summarized the differences between the brain regions of autistic patients and normal people: 
-    1. The brain areas which Node efficiency and node degree are slightly higher than normal people:57, 63, 77(AAL atlas)
-    2. The brain areas which Node efficiency and node degree are slightly lower than normal people:25, 28, 86, 90(AAL atlas)
+  * Based on the experiment, I summarized the differences between the brain regions of autistic patients and normal people: 1. The brain areas which node efficiency and node degree are slightly higher than normal people:57, 63, 77(AAL atlas) 2. The brain areas which node efficiency and node degree are slightly lower than normal people:25, 28, 86, 90(AAL atlas)
 
-  Responsibilities include:
+  experimental process :
   
   * Extract the patient's personal information from the server
   * Information transfer, modification and upload between different interfaces
