@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2017-08-10"
   description = """
-    It was my first time to know about deep learning. And in order to complete the project better, I set up a study group to participate in this project. But unfortunately, everyone except me(in my group) went to enjoy the summer holiday gradually, so I had to do the whole project by myself. Because I had a internship at the same time, the project I finished didn't contain much.
+It was my first time to know about deep learning. And in order to complete the project better, I set up a study group to participate in this project. But unfortunately, everyone except me(in my group) went to enjoy the summer holiday gradually, so I had to do the whole project by myself. Because I had a internship at the same time, the project I finished didn't contain much.
   
   
   The result:
