@@ -34,14 +34,22 @@ date_format = "Jan 2006"
   2. The brain areas which node efficiency and node degree are slightly lower than normal people:25, 28, 86, 90(AAL atlas)
 
   Experimental process :
+  
   1. Download 871 data from ABIDE website and calculate the correlation coefficient matrix
+  
   2. Use a combination of L1-scca + SLR(learn from Japanese paper) and phenotype information for correlation coefficient matrix dimensionality reduction(feature dimension reduction), choose the important edges.
+  
   3. Extract the spectral domain features of each correlation coefficient matrix, and select features that have a classification effect
+  
   4. Select appropriate node features with classification effect
+  
   5. SVM
   
+  
   Award:
+  
   1. Outstanding Graduation project of School of Biomedical Engineering 
+  
   2. Outstanding Graduation project of Northeastern University
   """
 
