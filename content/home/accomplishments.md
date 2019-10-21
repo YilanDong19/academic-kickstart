@@ -61,8 +61,10 @@ date_format = "Jan 2006"
   description = """
 One reason for the low classification accuracy is the great heterogeneity between different collection sites, in order to solve this problem, We set up a study group, read some papers, and found that one solution is to use GCN and phenotype information. So we studied and built a gcn model and used phenotype information to improve the classification accuracy.
   
+  
   The result :
-  We built a gcn model, and the chebyshev polynomial was used to process each preprocessed matrix. Then we use the same or similar phenotypic information to reduce the distance between each individuals.
+  
+The paper ' Disease prediction using graph convolutional networks: Application to Autism Spectrum Disorder and Alzheimer’s disease ' gave us a lot of inspiration. Finally, we built a gcn model, and the chebyshev polynomial was used to process each preprocessed matrix. Then we use the same or similar phenotypic information to reduce the distance between each individuals. 
   
   
   """
