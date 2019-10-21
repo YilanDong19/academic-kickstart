@@ -27,27 +27,9 @@ date_format = "Jan 2006"
   date_start = "2019-06-20"
   date_end = ""
   description = """"""
-  
- [[experience]]
-  title = "Excellent graduate of Northeastern University title"
-  company = "Northeastern University"
-  company_url = ""
-  location = ""
-  date_start = "2019-06-20"
-  date_end = ""
-  description = """"""
-
+ 
 [[experience]]
   title = "Second Grade Scholarship for Elite Students of Northeastern University"
-  company = "Northeastern University"
-  company_url = ""
-  location = ""
-  date_start = "2018-11-01"
-  date_end = ""
-  description = """"""
-
-[[experience]]
-  title = "Excellent student model title"
   company = "Northeastern University"
   company_url = ""
   location = ""
@@ -64,7 +46,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """"""
 
-
 [[experience]]
   title = "First Grade Scholarship for Elite Students of Northeastern University"
   company = "Northeastern University"
@@ -73,18 +54,7 @@ date_format = "Jan 2006"
   date_start = "2017-11-01"
   date_end = ""
   description = """"""
-  
-  
-  [[experience]]
-  title = "Excellent Student Cadre title"
-  company = "Northeastern University"
-  company_url = ""
-  location = ""
-  date_start = "2017-11-01"
-  date_end = ""
-  description = """"""
-  
-  
+   
  [[experience]]
   title = "Third Grade Scholarship for Elite Students of Northeastern University"
   company = "Northeastern University"
@@ -95,17 +65,35 @@ date_format = "Jan 2006"
   description = """"""
   
   
-  [[experience]]
-  title = "First Grade Scholarship for Elite Students of Northeastern University"
+ 
+  
+  
+ [[experience]]
+  title = "Excellent graduate of Northeastern University title"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2019-06-20"
+  date_end = ""
+  description = """"""
+  
+ [[experience]]
+  title = "Excellent student model title"
+  company = "Northeastern University"
+  company_url = ""
+  location = ""
+  date_start = "2018-11-01"
+  date_end = ""
+  description = """"""
+  
+ [[experience]]
+  title = "Excellent Student Cadre title"
   company = "Northeastern University"
   company_url = ""
   location = ""
   date_start = "2017-11-01"
   date_end = ""
   description = """"""
-  
-  
-
 
 +++
 
