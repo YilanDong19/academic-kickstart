@@ -31,6 +31,6 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Human Brain"
-  description = "20%"
+  description = "40%"
 
 +++
