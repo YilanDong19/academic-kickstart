@@ -15,7 +15,7 @@ role: The postgraduate of King's College London
 # Organizations/Affiliations
 organizations:
 - name: King's College London
-  url: "https://www.kcl.ac.uk/"
+  url: "www.kcl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include medical image analysis, self-definition neural networks and programmable matter
