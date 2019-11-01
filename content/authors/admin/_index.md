@@ -14,7 +14,7 @@ role: The postgraduate of King's College London
 
 # Organizations/Affiliations
 organizations:
-- name: King's College Londono
+- name: King's College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
