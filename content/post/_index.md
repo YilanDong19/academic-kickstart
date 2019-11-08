@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Award
 
 # View.
 #   1 = List
