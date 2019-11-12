@@ -15,7 +15,7 @@ role: The postgraduate of King's College London
 # Organizations/Affiliations
 organizations:
 - name: King's College London
-  url: "www.kcl.ac.uk"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include medical image analysis, self-definition neural networks and programmable matter
@@ -31,8 +31,8 @@ education:
     institution: King's College London
     year: 2019-2020
   - course: Bachelor Degree in Biomedical Engineering
-    institution: Northeastern University(one of the best college in China)
-    url: "https://en.wikipedia.org/wiki/Northeastern_University_(China)"
+    -institution: Northeastern University(one of the best college in China)
+     url: "https://en.wikipedia.org/wiki/Northeastern_University_(China)"
     year: 2015-2019
 
 # Social/Academic Networking
