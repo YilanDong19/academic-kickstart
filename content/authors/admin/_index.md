@@ -31,8 +31,7 @@ education:
     institution: King's College London
     year: 2019-2020
   - course: Bachelor Degree in Biomedical Engineering
-    -institution: Northeastern University(one of the best college in China)
-     url: "https://en.wikipedia.org/wiki/Northeastern_University_(China)"
+    institution: Northeastern University(one of the best college in China)
     year: 2015-2019
 
 # Social/Academic Networking
