@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduation project: A classifier for autism prediction based on the conbination of phenotypic information and the features of brain networks"
+  title = "Graduation project: A classifier for autism prediction based on the combination of phenotypic information and the features of brain networks"
   company = "Northeastern University"
   company_url = ""
   location = "Shenyang City"
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2018-04-01"
   date_end = "2019-03-01"
   description = """
-One reason for the low classification accuracy is the great heterogeneity between different collection sites, in order to solve this problem, We set up a study group, read some papers, and found that one solution is to use GCN and phenotype information. So we studied aa gcn model and used phenotype information to improve the classification accuracy.
+One reason for the low classification accuracy is the great heterogeneity between different collection sites, in order to solve this problem, We set up a study group, read some papers, and found that one solution is to use GCN and phenotype information. So we studied a gcn model and used phenotype information to improve the classification accuracy.
   
   
   The result :
