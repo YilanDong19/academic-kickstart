@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: The postgraduate of King's College London
+role: The PhD student of King's College London
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,20 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include medical image analysis, self-definition neural networks and programmable matter
+bio: My research interests include medical image analysis, deep learning neural network and interpretation methods.
 
 interests:
-- Artificial Intelligence
-- Neural network
-- Feature extraction
+- Autism
+- Medical image analysis
+- Deep neural network
+- Interpretation methods
+- Segmentation
 
 education:
   courses:
+  - course: Doctor of Philosophy in Biomedical Engineering And Imaging Science Research FT (current)
+    institution: King's College London
+    year: 2020~
   - course: Master Degree in Healthcare Technologies MSc (Artificial Intelligence direction)
     institution: King's College London
     year: 2019-2020
@@ -66,8 +71,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-My research interests include medical image analysis, self-definition neural networks and programmable matter. My first contact with artificial intelligence was in the third year of college, although we didn't have a related course, I set up an artificial intelligence study group to do related simple projects. During the next two years, by learning online courses, we have learned and built a variety of models such as autoencoder, cnn, gcn, etc. 
-
-Even though I have learned a certain amount of knowledge from the Internet, I still feel that I need a professional lecture. This is the reason why I choose to come to the UK for further study.
+I am a second year PhD student at King's College London. Basically, my project is to develop an interpretable machine learning framework to uncover the early origions of neural developmental disorders. In the first year of PhD, I did a benchmark on ABIDE fMRI dataset, which is one of the biggest public databases on autism. Five of the most widely used or best performing models was applied to this experiment. Our results show that all the tested models have the similar results, which means that it is probably the different evaluation pipelines rather than different machine learning models that leads to the variation of accuracy in the published literature. In the second year,  I tested the sMRI data of ABIDE, and tried to combine sMRI and fMRI to further improve the model performance.
 
